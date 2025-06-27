@@ -7,7 +7,7 @@ class product:
         print("product name:",self.name)
         print("product price:",self.price)
         
-obj = product("body spray",500)
+obj = product("face cream",900)
 obj.show()
     
     
